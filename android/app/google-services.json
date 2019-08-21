@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "189785420755",
+    "firebase_url": "https://flashop-3d3fb.firebaseio.com",
+    "project_id": "flashop-3d3fb",
+    "storage_bucket": "flashop-3d3fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189785420755:android:f8e8ed6322bbc185",
+        "android_client_info": {
+          "package_name": "prodigit.mesabo.flasop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189785420755-arjrde1unddaepv4942bbo6nqq0u8cbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "prodigit.mesabo.flasop",
+            "certificate_hash": "8444fbb3247e6c909579647527be3c78523516ae"
+          }
+        },
+        {
+          "client_id": "189785420755-2gb9t49mmvajp9sh2ot0pdoh4i10ksv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAOBoQgsTgjWWl65zC_XbHbNsuSrQzKwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189785420755-2gb9t49mmvajp9sh2ot0pdoh4i10ksv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

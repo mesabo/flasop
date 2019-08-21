@@ -1,0 +1,16 @@
+  # See https://github.com/flutter/flutter/wiki/Desktop-shells#fonts
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: linux/fonts/Roboto/Roboto-Thin.ttf
+          weight: 100
+        - asset: linux/fonts/Roboto/Roboto-Light.ttf
+          weight: 300
+        - asset: linux/fonts/Roboto/Roboto-Regular.ttf
+          weight: 400
+        - asset: linux/fonts/Roboto/Roboto-Medium.ttf
+          weight: 500
+        - asset: linux/fonts/Roboto/Roboto-Bold.ttf
+          weight: 700
+        - asset: linux/fonts/Roboto/Roboto-Black.ttf
+          weight: 900
